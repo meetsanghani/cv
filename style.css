@@ -9,6 +9,7 @@ body{
     background-color: #eaf6f6;
     position: relative;
     padding-top: 100px;
+    margin-right: -90px;
 }
 
 .top-cloud{
@@ -39,6 +40,7 @@ left: 150px;}
     background-color: white;
     position: relative;
     margin: 100px 0;
+    margin-right: -90px;
 }
 
 .profile{
@@ -108,7 +110,7 @@ p{
 .bottom-container{
     background-color: #66bfbf;
     text-align: center;
- 
+    margin-right: -90px;
     padding: 50px 0 20px 0;
              }
 .fotter-link{
